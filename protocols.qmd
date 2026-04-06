@@ -23,7 +23,7 @@ Participation in the project is simple and was intentionally designed to match h
 5.  Review the checklist to ensure the number of observers and the time is accurate.
 6.  Submit the checklist and upload the photo you took as a habitat photo as part of your checklist media.
 
-For more details about the protocol, please see read the detailed protocol and quick reference guide embeded below or refer to our Frequently Asked Questions page. 
+For more details about the protocol, please see read the detailed protocol and quick reference guide embeded below or refer to our [Frequently Asked Questions](faq.qmd) page. 
 
 ::: {style="text-align: center;"}
 ## Detailed Protocol
