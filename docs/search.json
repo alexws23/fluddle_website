@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Since the early 1800s, Illinois has lost approximately 85% of its wetlands, part of a broader trend of wetland loss both across the US and globally. In addition to habitat loss, remaining wetland habitat is often degraded through agricultural drainage, providing poorer foraging opportunities for migratory waterbirds. For shorebirds, these problems are amplified by the relative rarity of their preferred wetland type in the state: mudflats and shallow wetlands. Only 4 to 6% of all wetland areas in Illinois are estimated to be mudflats.\nGiven rarity of shorebird habitat in Illinois, our project proposes to investigate a new method of shorebird habitat management – creating shallow seasonal wetlands for migratory shorebirds by partially flooding agricultural fields. Specifically, we aim to create wetlands to provide habitat for small shorebirds, with a focus on the genera Calidris (sandpipers), Tringa (yellowlegs), and Limnodromus (dowitchers). We plan to install water control structures to restrict water drainage and allow portions of agricultural fields to flood. Water levels at each site will be managed to maintain shallow water levels ideal for migratory shorebirds. Sites will be monitored to evaluate shorebird use during migration. We will also assess soil invertebrate biomass, vegetation characteristics, pesticide concentrations, and the landscape surrounding each site to quantify food availability and site suitability. This data will be used to develop best practices for creating stopover habitat for migratory shorebirds in the Midwest and study the efficacy of these flooded agricultural fields as stopover habitat. Results of this work can be used by landowners to manage their properties for stopover habitat throughout the heavily modified ecosystems of the Midwest, helping support the conservation of migratory shorebirds."
   },
   {
     "objectID": "index.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "sites.html",
     "href": "sites.html",
-    "title": "The Fluddle Project",
+    "title": "Site Information",
     "section": "",
-    "text": "There are two types of sites being studies in this project, which we’re calling high and low priority sites. High Priority sites are\nThe map below shows all of the fluddle sites that have been located as part of this project. Locations marked with a red star are High Priority monitored sites where we are collaborating with the landowner to collect data. Each point marks the suggested location from which you should survey that fluddle and we provide a rough estimate of the flooding extent of each site. Sites marked with a blue dot represent all other fluddle sites that have been identified by volunteers."
+    "text": "There are two types of sites being studies in this project, which we’re calling high and low priority sites. High priority sites are specific fluddles where we plan to collect information about the physical and biological characteristics about the site. All of the high priority sites are on land where we have the explicit permission of the landowner to work and where we have explicit permission to monitor. If you live or bird near one of our high-priority sites, we strongly encourage that you survey these sites, since your data will have the most impact.\nLow priority sites are just any other fluddles that you decide to visit and use our protocol at. While we won’t be carefully tracking these sites throughout migration, data collected from these sites can be used to help us answer other questions."
   },
   {
     "objectID": "protocols.html",
@@ -54,5 +54,40 @@
     "title": "The Fluddle Project",
     "section": "",
     "text": "There are two types of sites being studies in this project, which we’re calling high and low priority sites. High Priority sites are\nThe map below shows all of the fluddle sites that have been located as part of this project. Locations marked with a red star are High Priority monitored sites where we are collaborating with the landowner to collect data. Each point marks the suggested location from which you should survey that fluddle and we provide a rough estimate of the flooding extent of each site. Sites marked with a blue dot represent all other fluddle sites that have been identified by volunteers."
+  },
+  {
+    "objectID": "sites.html#site-map",
+    "href": "sites.html#site-map",
+    "title": "Site Information",
+    "section": "Site Map",
+    "text": "Site Map\nThe map below shows all of the fluddle sites that have been located as part of this project. Locations marked with a red star are high priority monitored sites where we are collaborating with the landowner to collect data. Each point marks the suggested location from which you should survey that fluddle and we provide a rough estimate of the flooding extent of each site. Sites marked with a blue dot represent all other fluddle sites that have been identified by volunteers."
+  },
+  {
+    "objectID": "sites.html#high-priority-sites",
+    "href": "sites.html#high-priority-sites",
+    "title": "Site Information",
+    "section": "High Priority Sites",
+    "text": "High Priority Sites\nThere are currently 3 high priority sites that we will be monitoring during the 2026 spring season. Each site is described in detail below. We plan to add a few more sites, so check back regularly."
+  },
+  {
+    "objectID": "about.html#people",
+    "href": "about.html#people",
+    "title": "About",
+    "section": "People",
+    "text": "People"
+  },
+  {
+    "objectID": "about.html#our-collaborators",
+    "href": "about.html#our-collaborators",
+    "title": "About",
+    "section": "Our Collaborators",
+    "text": "Our Collaborators\nWe would like to give special acknowledgements to all of our collaborators and funders, who have provided valuable financial and logistical support needed to run this project."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "Frequently Asked Questions\n\nWhy are there only a few high-priority sites?\n\nThis project is just start. We are using the 2026 season to pilot this study and our main goal this year is to test out our methods and work out any problems. We are planning to expand this study to include more sites in more counties in future years.\n\n\n\nWhen can I survey?\n\nYou are welcome to survey at any time between sunrise and sunset.\n\n\n\nWhere can I survey?\n\nTake a look at the site information page for more information on where you can survey. If you live or bird near our high-priority sites, these are a great place to start.\n\n\n\nHow frequently can I visit the same site?\n\nYou are welcome to visit the same site as freqently as desired, whether that’s once a day or once a week. We will eventually use some statistics to account for different levels of effort at different sites.\n\n\n\nWhat will my data be used for?\n\nYour surveys play a valuable role in helping us learn what shorebird species and how many individuals use different fluddle sites throughout Illinois, along with telling us when those species first arrive and later depart. With this information we will be able assess the relative value of fluddles for shorebirds and learn which sites are the best for shorebirds. Coupled with our measurements of the physical and biological characteristics of these fluddles, we will eventually create a clear set of guidelines for land owners hoping to create and manage productive fluddle sites."
   }
 ]

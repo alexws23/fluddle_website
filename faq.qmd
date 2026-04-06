@@ -1,0 +1,27 @@
+---
+image: imgs/Fluddle_Project_Logo_v1.png
+toc: false
+format: 
+  html:
+    bootstrap: 5
+    css: styles.css
+lightbox: 
+  effect: fade
+---
+
+# Frequently Asked Questions
+
+### Why are there only a few high-priority sites?
+- This project is just start. We are using the 2026 season to pilot this study and our main goal this year is to test out our methods and work out any problems. We are planning to expand this study to include more sites in more counties in future years.
+
+### When can I survey?
+- You are welcome to survey at any time between sunrise and sunset.
+
+### Where can I survey?
+- Take a look at the [site information](sites.qmd) page for more information on where you can survey. If you live or bird near our high-priority sites, these are a great place to start.
+
+### How frequently can I visit the same site?
+- You are welcome to visit the same site as freqently as desired, whether that's once a day or once a week. We will eventually use some statistics to account for different levels of effort at different sites.
+
+### What will my data be used for?
+- Your surveys play a valuable role in helping us learn what shorebird species and how many individuals use different fluddle sites throughout Illinois, along with telling us when those species first arrive and later depart. With this information we will be able assess the relative value of fluddles for shorebirds and learn which sites are the best for shorebirds. Coupled with our measurements of the physical and biological characteristics of these fluddles, we will eventually create a clear set of guidelines for land owners hoping to create and manage productive fluddle sites.

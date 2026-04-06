@@ -13,6 +13,8 @@ website:
         text: Sites
       - href: protocols.qmd
         text: Protocol
+      - href: faq.qmd
+        text: FAQ
   page-footer:
     center: For questions about the project, please contact Alex Smilor at [awsmilor@illinois.edu](mailto::awsmilor@illinois.edu).
 

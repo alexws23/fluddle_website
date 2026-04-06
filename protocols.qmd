@@ -23,23 +23,23 @@ Participation in the project is simple and was intentionally designed to match h
 5.  Review the checklist to ensure the number of observers and the time is accurate.
 6.  Submit the checklist and upload the photo you took as a habitat photo as part of your checklist media.
 
-For more details about the protocol, please see read the detailed protocol and quick reference guide embeded below or refer to our Frequently Asked Questions page.
+For more details about the protocol, please see read the detailed protocol and quick reference guide embeded below or refer to our Frequently Asked Questions page. 
 
 ::: {style="text-align: center;"}
 ## Detailed Protocol
 ```{=html}
-<object data="media/Smilor_Alex_InformeFinal.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="media/fluddles_protocol_detailed_no_sites.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No worries... you can <a href="media/Smilor_Alex_InformeFinal.pdf">click here to
+    No worries... you can <a href="media/fluddles_protocol_detailed_no_sites.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 
 ## Quick Reference Guide
 ```{=html}
-<object data="media/Smilor_Alex_InformeFinal.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="media/fluddles_quick_reference_no_sites.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No worries... you can <a href="media/Smilor_Alex_InformeFinal.pdf">click here to
+    No worries... you can <a href="media/fluddles_quick_reference_no_sites.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
