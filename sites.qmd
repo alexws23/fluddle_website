@@ -108,3 +108,31 @@ There are currently 3 high priority sites that we will be monitoring during the 
 ::::
 
 :::
+
+::: {.home-section}
+
+:::: {.columns}
+
+::: {.column width="49%"}
+![Map of County Rd. 500 Fluddle near Sadorus](imgs/Sadorus_Fluddle.jpg){.lightbox group="maps" fig-alt="A map showing the estimated extent of a fluddle and the survey point for the site"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+### County Rd. 500 Fluddle, Sadorus
+- Private CRP Land, Champaign County
+- 39.951705, -88.316783
+- **Google Maps Pin:** <https://maps.app.goo.gl/BChTQVPKTZhtYDZbA>
+- **eBird Hotspot:** Check back soon
+
+::: callout-note
+As of 4/06 this site did not have standing water. This site may flood with more rain. Even if it doesn't, we would appreciate some surveys from this site this year since we plan to flood it next year and we want to be able to compare before and after.
+:::
+
+:::
+
+::::
+
+:::
