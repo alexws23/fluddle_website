@@ -1,0 +1,46 @@
+---
+image: imgs/Fluddle_Project_Logo_v1.png
+toc: false
+format: 
+  html:
+    bootstrap: 5
+    css: styles.css
+lightbox: 
+  effect: fade
+---
+
+::: {style="text-align: center;"}
+# How to Contribute
+
+Participation in the project is simple and was intentionally designed to match how birdwatchers already bird fluddle. To contribute data to this project, all you need to do is follow the simple steps below.
+:::
+
+1.  Navigate to a [fluddle site](sites.qmd), preferably a High-Priority site if you live or bird near one.
+2.  Start a stationary eBird checklist and count all of the birds you see and hear in a 5-60 minute window.
+    1.  Please submit all checklists, even those without any shorebirds. Absence data is as valuable as presence data!
+3.  Take a photo of the fluddle with your phone, if possible.
+4.  Type **FluddlesIL** in the checklist comments and share the checklist with the project's [eBird](https://ebird.org/profile/OTA2MzYwOQ/US-IL) account **FluddlesIL**.
+5.  Review the checklist to ensure the number of observers and the time is accurate.
+6.  Submit the checklist and upload the photo you took as a habitat photo as part of your checklist media.
+
+For more details about the protocol, please see read the detailed protocol and quick reference guide embeded below or refer to our Frequently Asked Questions page.
+
+::: {style="text-align: center;"}
+## Detailed Protocol
+```{=html}
+<object data="media/Smilor_Alex_InformeFinal.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No worries... you can <a href="media/Smilor_Alex_InformeFinal.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+## Quick Reference Guide
+```{=html}
+<object data="media/Smilor_Alex_InformeFinal.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No worries... you can <a href="media/Smilor_Alex_InformeFinal.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+:::

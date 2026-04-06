@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Fluddle Project"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: sites.qmd
+        text: Sites
+      - href: protocols.qmd
+        text: Protocol
+  page-footer:
+    center: For questions about the project, please contact Alex Smilor at [awsmilor@illinois.edu](mailto::awsmilor@illinois.edu).
+
+format:
+  html:
+    theme: 
+      light: lightmode.scss
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

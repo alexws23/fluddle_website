@@ -1,0 +1,33 @@
+---
+image: imgs/Fluddle_Project_Logo_v1.png
+toc: false
+format: 
+  html:
+    bootstrap: 5
+    css: styles.css
+lightbox: 
+  effect: fade
+---
+::: {style="text-align: center;"}
+# Site Information
+
+There are two types of sites being studies in this project, which we're calling high and low priority sites. High priority sites are specific fluddles where we plan to collect information about the physical and biological characteristics about the site. All of the high priority sites are on land where we have the explicit permission of the landowner to work and where we have explicit permission to monitor. If you live or bird near one of our high-priority sites, we strongly encourage that you survey these sites, since your data will have the most impact.
+
+Low priority sites are just any other fluddles that you decide to visit and use our protocol at. While we won't be carefully tracking these sites throughout migration, data collected from these sites can be used to help us answer other questions.
+
+For more information about the scientific goals of this project, please see the [about](about.qmd) page.
+
+## Site Map
+
+The map below shows all of the fluddle sites that have been located as part of this project. Locations marked with a red star are high priority monitored sites where we are collaborating with the landowner to collect data. Each point marks the suggested location from which you should survey that fluddle and we provide a rough estimate of the flooding extent of each site. Sites marked with a blue dot represent all other fluddle sites that have been identified by volunteers.
+:::
+```{=html}
+<!-- Add script to the <head> of your page to load the embeddable map component -->
+<script type="module" src="https://js.arcgis.com/5.0/embeddable-components/"></script>
+<!-- Add custom element to <body> of your page -->
+ <arcgis-embedded-map style="height:600px;width:100%;" item-id="0a19ffdf130e490a854a26fb5ab399d8" theme="light" legend-enabled basemap-gallery-enabled time-zone-label-enabled center="-88.61411703710857,40.951509252964115"scale="2311162.217155" portal-url="https://univofillinois.maps.arcgis.com"></arcgis-embedded-map>
+```
+
+## High Priority Sites
+There are currently 3 high priority sites that we will be monitoring during the 2026 spring season. Each site is described in detail below. We plan to add a few more sites, so check back regularly.
+
