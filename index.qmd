@@ -76,3 +76,45 @@ The map below shows all of the fluddle sites that have been located as part of t
 <!-- Add custom element to <body> of your page -->
  <arcgis-embedded-map style="height:600px;width:100%;" item-id="0a19ffdf130e490a854a26fb5ab399d8" theme="light" legend-enabled basemap-gallery-enabled time-zone-label-enabled center="-88.61411703710857,40.951509252964115"scale="2311162.217155" portal-url="https://univofillinois.maps.arcgis.com"></arcgis-embedded-map>
 ```
+
+![](imgs/Fluddle_Project_Logo_v1.png){fig-align="center"}
+
+::: {.home-section}
+
+:::: {.columns}
+
+::: {.column width="15%"}
+![](imgs/FPDK_logo_withstroke.png){fig-align="center"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="15%"}
+![](imgs/IAS-Logo-2023-Transparent-square.png){fig-align="center"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+![](imgs/uiuc_logo.png){fig-align="center"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="15%"}
+![](imgs/KCA-Logo-600x600-1.png){fig-align="center"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="15%"}
+![](imgs/ccas.png){fig-align="center"}
+:::
+
+::::
+
+:::
