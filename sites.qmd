@@ -81,6 +81,11 @@ There are currently 3 high priority sites that we will be monitoring during the 
 - 41.819310, -88.411688
 - **Google Maps Pin:** <https://maps.app.goo.gl/re9HuaDknAtDHVjz5>
 - **eBird Hotspot:** <https://ebird.org/hotspot/L61395335>
+
+::: callout-important
+Please do not park in the access lane! We don't want to obstruct the farmer's access to the field. Please park either along the road or in the grassy area by the treeline to the east of the access lane.
+:::
+
 :::
 
 ::::
