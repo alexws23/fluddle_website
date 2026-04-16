@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ac137b62dc55fed29aa066d5159afe59.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -121,7 +121,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
 
 
 
@@ -156,6 +156,24 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="what-will-my-data-be-used-for">What will my data be used for?</h3>
 <ul>
 <li>Your surveys play a valuable role in helping us learn what shorebird species and how many individuals use different fluddle sites throughout Illinois, along with telling us when those species first arrive and later depart. With this information we will be able assess the relative value of fluddles for shorebirds and learn which sites are the best for shorebirds. Coupled with our measurements of the physical and biological characteristics of these fluddles, we will eventually create a clear set of guidelines for land owners hoping to create and manage productive fluddle sites.</li>
+</ul>
+</section>
+<section id="i-needed-to-move-a-little-while-birdwatching-at-a-fluddle-to-get-a-better-look-at-some-birds-or-to-make-way-for-traffic-and-my-checklist-defaulted-to-a-traveling-list.-can-i-still-contribute-this-data" class="level3">
+<h3 class="anchored" data-anchor-id="i-needed-to-move-a-little-while-birdwatching-at-a-fluddle-to-get-a-better-look-at-some-birds-or-to-make-way-for-traffic-and-my-checklist-defaulted-to-a-traveling-list.-can-i-still-contribute-this-data">I needed to move a little while birdwatching at a fluddle to get a better look at some birds or to make way for traffic and my checklist defaulted to a traveling list. Can I still contribute this data?</h3>
+<ul>
+<li>Yes! As long as you were just birding a single fluddle a little bit of movement is okay. The only thing we want to avoid are long list covering multiple fluddles or habitats.</li>
+</ul>
+</section>
+<section id="i-heard-or-saw-some-other-birds-at-a-part-or-farmhouse-adjacent-to-the-fluddle.-should-i-still-report-these" class="level3">
+<h3 class="anchored" data-anchor-id="i-heard-or-saw-some-other-birds-at-a-part-or-farmhouse-adjacent-to-the-fluddle.-should-i-still-report-these">I heard or saw some other birds at a part or farmhouse adjacent to the fluddle. Should I still report these?</h3>
+<ul>
+<li>Yes! Your eBird checklist should be a complete list so that we can assume that anything not reported was actually absent. Plus, we mostly plan to look at waterfowl and shorebirds, which we can safely assume are at or near the fluddle.</li>
+</ul>
+</section>
+<section id="should-i-only-submit-checklists-from-flooded-agricultural-field" class="level3">
+<h3 class="anchored" data-anchor-id="should-i-only-submit-checklists-from-flooded-agricultural-field">Should I only submit checklists from flooded agricultural field?</h3>
+<ul>
+<li>No, you can submit lists from any type of fluddle, including ones at sod farms or park fields.</li>
 </ul>
 
 
@@ -245,6 +263,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -355,6 +375,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
