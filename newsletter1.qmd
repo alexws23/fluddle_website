@@ -1,0 +1,17 @@
+---
+toc: false
+format: 
+  html:
+    bootstrap: 5
+    css: styles.css
+lightbox: 
+  effect: fade
+---
+
+```{=html}
+<object data="media/fluddles_newsletter_1_20260914.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No worries... you can <a href="media/fluddles_newsletter_1_20260914.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
