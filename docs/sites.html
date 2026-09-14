@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ac137b62dc55fed29aa066d5159afe59.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -124,15 +124,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
 
 
 
 
 <section id="site-information" class="level1" style="text-align: center;">
 <h1>Site Information</h1>
-<p>There are two types of sites being studies in this project, which we’re calling high and low priority sites. High priority sites are specific fluddles where we plan to collect information about the physical and biological characteristics about the site. All of the high priority sites are on land where we have the explicit permission of the landowner to work and where we have explicit permission to monitor. If you live or bird near one of our high-priority sites, we strongly encourage that you survey these sites, since your data will have the most impact.</p>
-<p>Low priority sites are just any other fluddles that you decide to visit and use our protocol at. While we won’t be carefully tracking these sites throughout migration, data collected from these sites can be used to help us answer other questions.</p>
+<p>There are two types of sites being studies in this project, which we’re calling high and low priority sites. <strong>High priority</strong> sites are specific fluddles where we plan to collect information about the physical and biological characteristics about the site. All of the high priority sites are on land where we have the explicit permission of the landowner to work and where we have explicit permission to monitor. If you live or bird near one of our high-priority sites, we strongly encourage that you survey these sites, since your data will have the most impact.</p>
+<p><strong>Low priority</strong> sites are just any other fluddles that you decide to visit and use our protocol at. While we won’t be carefully tracking these sites throughout migration, data collected from these sites can be used to help us answer other questions.</p>
 </section>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -248,43 +248,7 @@ Important
 </div>
 </div>
 </div>
-<div class="home-section">
-<div class="columns">
-<div class="column" style="width:49%;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="imgs/Sadorus_Fluddle.jpg" class="lightbox" data-gallery="maps" title="Map of County Rd. 500 Fluddle near Sadorus"><img src="imgs/Sadorus_Fluddle.jpg" class="img-fluid figure-img" alt="A map showing the estimated extent of a fluddle and the survey point for the site"></a></p>
-<figcaption>Map of County Rd. 500 Fluddle near Sadorus</figcaption>
-</figure>
-</div>
-</div><div class="column" style="width:2%;">
-
-</div><div class="column" style="width:49%;">
-<section id="county-rd.-500-fluddle-sadorus" class="level3">
-<h3 class="anchored" data-anchor-id="county-rd.-500-fluddle-sadorus">County Rd. 500 Fluddle, Sadorus</h3>
-<ul>
-<li>Private CRP Land, Champaign County</li>
-<li>39.951705, -88.316783</li>
-<li><strong>Google Maps Pin:</strong> <a href="https://maps.app.goo.gl/BChTQVPKTZhtYDZbA" class="uri">https://maps.app.goo.gl/BChTQVPKTZhtYDZbA</a></li>
-<li><strong>eBird Hotspot:</strong> Check back soon</li>
-</ul>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>As of 4/06 this site did not have standing water. This site may flood with more rain. Even if it doesn’t, we would appreciate some surveys from this site this year since we plan to flood it next year and we want to be able to compare before and after.</p>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
+<p>We plan to add more high-priority sites as the project continues, so check back here occasionally.</p>
 
 
 
@@ -371,6 +335,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -481,6 +447,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -720,7 +687,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"fade","descPosition":"bottom","loop":false,"openEffect":"fade","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"fade","loop":false,"openEffect":"fade","descPosition":"bottom"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

@@ -12,9 +12,9 @@ lightbox:
 ::: {style="text-align: center;"}
 # Site Information
 
-There are two types of sites being studies in this project, which we're calling high and low priority sites. High priority sites are specific fluddles where we plan to collect information about the physical and biological characteristics about the site. All of the high priority sites are on land where we have the explicit permission of the landowner to work and where we have explicit permission to monitor. If you live or bird near one of our high-priority sites, we strongly encourage that you survey these sites, since your data will have the most impact.
+There are two types of sites being studies in this project, which we're calling high and low priority sites. **High priority** sites are specific fluddles where we plan to collect information about the physical and biological characteristics about the site. All of the high priority sites are on land where we have the explicit permission of the landowner to work and where we have explicit permission to monitor. If you live or bird near one of our high-priority sites, we strongly encourage that you survey these sites, since your data will have the most impact.
 
-Low priority sites are just any other fluddles that you decide to visit and use our protocol at. While we won't be carefully tracking these sites throughout migration, data collected from these sites can be used to help us answer other questions.
+**Low priority** sites are just any other fluddles that you decide to visit and use our protocol at. While we won't be carefully tracking these sites throughout migration, data collected from these sites can be used to help us answer other questions.
 :::
 
 ::: callout-important
@@ -114,30 +114,4 @@ Please do not park in the access lane! We don't want to obstruct the farmer's ac
 
 :::
 
-::: {.home-section}
-
-:::: {.columns}
-
-::: {.column width="49%"}
-![Map of County Rd. 500 Fluddle near Sadorus](imgs/Sadorus_Fluddle.jpg){.lightbox group="maps" fig-alt="A map showing the estimated extent of a fluddle and the survey point for the site"}
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="49%"}
-### County Rd. 500 Fluddle, Sadorus
-- Private CRP Land, Champaign County
-- 39.951705, -88.316783
-- **Google Maps Pin:** <https://maps.app.goo.gl/BChTQVPKTZhtYDZbA>
-- **eBird Hotspot:** Check back soon
-
-::: callout-note
-As of 4/06 this site did not have standing water. This site may flood with more rain. Even if it doesn't, we would appreciate some surveys from this site this year since we plan to flood it next year and we want to be able to compare before and after.
-:::
-
-:::
-
-::::
-
-:::
+We plan to add more high-priority sites as the project continues, so check back here occasionally.
